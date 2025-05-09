@@ -1,9 +1,8 @@
-# 📌 Variable Assignment in Python
-
 <p align="center">
   <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/01.%20Variables/variables.jpg" alt="SQL Banner" />
 </p>
 
+# 📌 Variable Assignment in Python
 
 Welcome to the **Variable Assignment in Python** section of the Python Learning Repository!  
 This module covers the fundamentals of declaring, assigning, and managing variables in Python. It is designed for beginners and intermediate learners to understand how Python handles variables and to adopt best practices for clean and efficient coding.
