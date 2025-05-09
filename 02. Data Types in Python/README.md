@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/02.%20Data%20Types%20in%20Python/Data%20Types.png" alt="SQL Banner" />
+</p>
+
+
 # 🧮 Data Types in Python
 
-Welcome to the **Data Types in Python** section of the Python Learning Repository!  
-This folder provides a comprehensive guide to Python's core data types, their properties, and practical examples to help you understand how to use them effectively in your programs. Whether you're a beginner or brushing up on fundamentals, this resource will strengthen your understanding of Python's type system.
+Welcome to the **Data Types in Python** section of the Python Learning Repository!  This folder provides a comprehensive guide to Python's core data types, their properties, and practical examples to help you understand how to use them effectively in your programs. Whether you're a beginner or brushing up on fundamentals, this resource will strengthen your understanding of Python's type system.
 
 ---
 
@@ -87,5 +91,6 @@ Feel free to:
 - Suggest additional topics related to data types
 
 Just fork the repo and submit a pull request. Let's learn together! 🚀
+Explore the full Python file here 👉 [Data Types in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/02.%20Data%20Types%20in%20Python/02.%20Data%20Types%20in%20Python.ipynb)
 
 ---
