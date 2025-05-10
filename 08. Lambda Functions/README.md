@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20Lambda%20Functions%20in%20Python/Lambda.png" alt="Lambda Functions Banner" />
+  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/08.%20Lambda%20Functions/Lambda%20Function.jpgg" alt="Lambda Functions Banner" />
 </p>
 
 # 🧮 Lambda Functions in Python
@@ -86,6 +86,6 @@ Feel free to:
 - Suggest additional topics related to lambda functions
 
 Just fork the repo and submit a pull request. Let's learn together! 🚀
-Explore the full Python file here 👉 [Lambda Functions in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20Lambda%20Functions%20in%20Python/04.%20Lambda%20Functions%20in%20Python.ipynb)
+Explore the full Python file here 👉 [Lambda Functions in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/08.%20Lambda%20Functions/Lambda%20Functions.ipynb)
 
 ---
