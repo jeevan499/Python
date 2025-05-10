@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20List%20and%20Dictionary%20Comprehension/Comprehension.png" alt="Comprehension Banner" />
-</p>
-
 # 🧮 List and Dictionary Comprehension in Python
 
 Welcome to the **List and Dictionary Comprehension in Python** section of the Python Learning Repository! This folder provides a comprehensive guide to Python's list and dictionary comprehensions, their syntax, and practical examples to help you write concise and efficient code. Whether you're a beginner or looking to refine your skills, this resource will enhance your understanding of Python's comprehension techniques.
@@ -90,6 +86,6 @@ Feel free to:
 - Suggest additional topics related to comprehensions
 
 Just fork the repo and submit a pull request. Let's learn together! 🚀
-Explore the full Python file here 👉 [List and Dictionary Comprehension in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20List%20and%20Dictionary%20Comprehension/04.%20List%20and%20Dictionary%20Comprehension.ipynb)
+Explore the full Python file here 👉 [List and Dictionary Comprehension in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/06.%20List%20and%20Dictionary%20Comprehension/List%20and%20Dictionary%20Comprehension.ipynb)
 
 ---
