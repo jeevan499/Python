@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/08.%20Lambda%20Functions/Lambda%20Function.jpgg" alt="Lambda Functions Banner" />
+  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/08.%20Lambda%20Functions/Lambda%20Function.jpg" alt="Lambda Functions Banner" />
 </p>
 
 # 🧮 Lambda Functions in Python
