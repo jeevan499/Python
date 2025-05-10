@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20Regular%20Expressions%20in%20Python/Regex.png" alt="Regex Banner" />
+  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/10.%20Regular%20Expression/Regex.jpg" alt="Regex Banner" />
 </p>
 
 # 🧮 Regular Expressions in Python
@@ -93,6 +93,6 @@ Feel free to:
 - Suggest additional regex-related topics
 
 Just fork the repo and submit a pull request. Let's learn together! 🚀
-Explore the full Python file here 👉 [Regular Expressions in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20Regular%20Expressions%20in%20Python/04.%20Regular%20Expressions%20in%20Python.ipynb)
+Explore the full Python file here 👉 [Regular Expressions in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/10.%20Regular%20Expression/Regular%20Expression.ipynb)
 
 ---
