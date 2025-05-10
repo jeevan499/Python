@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20OOPs%20in%20Python/OOPs.png" alt="OOPs Banner" />
+  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/09.%20OOPs/OOPs.jpg" alt="OOPs Banner" />
 </p>
 
 # 🧮 Object-Oriented Programming (OOP) in Python
@@ -97,6 +97,6 @@ Feel free to:
 - Suggest additional topics related to OOP
 
 Just fork the repo and submit a pull request. Let's learn together! 🚀
-Explore the full Python file here 👉 [OOPs in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20OOPs%20in%20Python/04.%20OOPs%20in%20Python.ipynb)
+Explore the full Python file here 👉 [OOPs in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/09.%20OOPs/OOPs.ipynb)
 
 ---
