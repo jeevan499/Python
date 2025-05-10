@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20Functions%20in%20Python/Functions.png" alt="Functions Banner" />
+  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/07.%20Functions/Functions.jpg" alt="Functions Banner" />
 </p>
 
 # 🧮 Functions in Python
@@ -97,6 +97,5 @@ Feel free to:
 - Suggest additional topics related to functions
 
 Just fork the repo and submit a pull request. Let's learn together! 🚀
-Explore the full Python file here 👉 [Functions in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20Functions%20in%20Python/04.%20Functions%20in%20Python.ipynb)
-
+Explore the full Python file here 👉 [Functions in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/07.%20Functions/Function.ipynb)
 ---
