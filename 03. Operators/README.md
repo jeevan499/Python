@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/03.%20Operators%20in%20Python/Operators.png" alt="Operators Banner" />
+  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/03.%20Operators/Operator.jpg" alt="Operators Banner" />
 </p>
 
 # 🧮 Operators in Python
@@ -114,6 +114,6 @@ Feel free to:
 - Suggest additional topics related to operators
 
 Just fork the repo and submit a pull request. Let's learn together! 🚀
-Explore the full Python file here 👉 [Operators in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/03.%20Operators%20in%20Python/03.%20Operators%20in%20Python.ipynb)
+Explore the full Python file here 👉 [Operators in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/03.%20Operators/03.%20Operators%20in%20Python.ipynb)
 
 ---
