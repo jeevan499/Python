@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20Conditional%20Statements%20in%20Python/Conditional_Statements.png" alt="Conditional Statements Banner" />
+  <img src="https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20Conditional%20Statement/Conditional%20Statement.jpg" alt="Conditional Statements Banner" />
 </p>
 
 # 🧮 Conditional Statements in Python
@@ -113,6 +113,6 @@ Feel free to:
 - Suggest additional topics related to conditional statements
 
 Just fork the repo and submit a pull request. Let's learn together! 🚀
-Explore the full Python file here 👉 [Conditional Statements in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20Conditional%20Statements%20in%20Python/04.%20Conditional%20Statements%20in%20Python.ipynb)
+Explore the full Python file here 👉 [Conditional Statements in Python](https://github.com/jeevan499/Python/blob/jeevanrajraj1998%40gmail.com/04.%20Conditional%20Statement/04.%20Conditional%20Statement.ipynb)
 
 ---
